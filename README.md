@@ -2,6 +2,8 @@
 
 A template for .Net App solutions. Built with Xamarin, but architected in a way that other .Net front-end frameworks (WPF, WinForms, UWP, Blazor, Uno) could be used.
 
+[![Build status](https://build.appcenter.ms/v0.1/apps/80ea6388-1df9-43ce-8b43-33c5814dd9e4/branches/main/badge)](https://appcenter.ms)
+
 ## Features
 
 - C# 9 in netStandard Projects
